@@ -13,7 +13,7 @@ To use it import it:
 `````
 
 and then call it:
-````Objective C
+````Objective-C
 LSWeather *weather = [[LSWeather alloc] initWithLocationName:@"Oberhausen" languageCode:@"en"];
 [weather setDidFailBlock:^(NSString *errorMsg){
     //Some code here
