@@ -8,7 +8,7 @@ Installation
 
 Just drag LSWeather.h and LSWeather.m into your Project, and you're done.
 To use it import it:
-````Objective C
+````Objective-C
 #import "LSWeather.h"
 `````
 
