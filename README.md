@@ -26,4 +26,4 @@ LSWeather *weather = [[LSWeather alloc] initWithLocationName:@"Oberhausen" langu
 
 License
 -------
-This Project is released under the Creative Commons 3.0 unported license.
+This Project is released under the Creative Commons 3.0 unported license: http://creativecommons.org/licenses/by/3.0/
